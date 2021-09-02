@@ -1,0 +1,1 @@
+Contains folders with images and data used by the code.
